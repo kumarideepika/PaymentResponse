@@ -1,4 +1,4 @@
-import logo from './success.png';
+import logo from './cancel.png';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Payment Complete!
+          Payment Canceled!
         </p>
       </header>
     </div>
